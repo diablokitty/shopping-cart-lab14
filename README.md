@@ -1,1 +1,3 @@
-# 201 Class 14 Starter Code
+# 201 Class 14 Pair Programming Exercise
+
+Miguel Rodriguez and Amy Pierce
